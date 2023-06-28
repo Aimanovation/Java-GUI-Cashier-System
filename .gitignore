@@ -1,0 +1,22 @@
+# Compiled source
+/classes/
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled Java classes
+*.class
+
+# NetBeans specific files and folders
+/nbproject/private/
+/nbproject/Makefile-*
+/nbproject/Package-*
+/nbproject/*.jar
+/build/
+/dist/
+/nbbuild/
