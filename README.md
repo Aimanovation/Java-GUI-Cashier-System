@@ -18,7 +18,7 @@ This Java program was developed and tested using the Eclipse and NetBeans IDEs. 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Aimanovation/Java-GUI-Cashier-System.git`
+1. Clone the repository: `git clone https://github.com/aimaniskndar/Java-GUI-Cashier-System.git`
 2. Open the project in your preferred Java IDE (Eclipse or NetBeans)
 3. Build the project and resolve any dependencies
 4. Run the application
@@ -37,4 +37,4 @@ Created by [Muhammad Aiman Iskandar bin Azman]
 
 ## Contact
 
-For any inquiries or questions, please contact [aimanovation@gmail.com](mailto:aimanovation@gmail.com).
+For any inquiries or questions, please contact [contact.aiman.azman@gmail.com](mailto:contact.aiman.azman@gmail.com).
